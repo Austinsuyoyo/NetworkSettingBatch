@@ -209,4 +209,3 @@ GOTO :menu
 :notsupport
 ECHO Sorry, not supported yet
 GOTO exit
-PAUSE
