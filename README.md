@@ -8,4 +8,4 @@ Any command line tool that support batch file can use it
 
 # Screenshot
 
-![screen](http://mh1127.hiwinmikro.com.tw:5555/austinsuyoyo/NetworkSetting/raw/branch/master/img/screenshot.png)
+![screen](https://github.com/Austinsuyoyo/NetworkSettingBatch/blob/master/img/screenshot.png?raw=true)
